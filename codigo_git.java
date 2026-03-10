@@ -9,7 +9,5 @@ public class codigo_git {
     String name="los duros de la programcion";
 
     //APORTE DE MABEL
->>>>>>> b90eeb70ee00de17bf205dd41ea35e7dcfce8cb8
     
-
 }
