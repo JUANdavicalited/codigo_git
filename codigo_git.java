@@ -1,5 +1,8 @@
 public class codigo_git {
-    String name ="mabel iveth diaaz guerrero";
-    String name="los duros de la programcion";
+    String name ="Mabel Iveth Diaz Guerrero";
+    String nameGruop= "Los duros de la Programacion";
+
+
     
+
 }
